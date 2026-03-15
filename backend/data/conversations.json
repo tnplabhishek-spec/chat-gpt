@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f41b7ab9-2177-4f0d-8114-e6b6b7894fba",
+    "user_id": "",
+    "title": "Chat - default",
+    "created_at": "2026-03-15T06:59:17.515666"
+  },
+  {
+    "id": "f987bcd4-6066-4172-87dc-2d301d68edbc",
+    "user_id": "",
+    "title": "Chat - default",
+    "created_at": "2026-03-15T06:59:35.924501"
+  },
+  {
+    "id": "573766f8-3dce-41a5-9532-1228490ad8c8",
+    "user_id": "",
+    "title": "Chat - default",
+    "created_at": "2026-03-15T07:02:14.684417"
+  },
+  {
+    "id": "052a1ee3-8d59-49a5-8fff-bcf612650217",
+    "user_id": "1d472ed0-2652-4cd4-a110-ee0286036eec",
+    "title": "Chat - default",
+    "created_at": "2026-03-15T07:26:15.841323"
+  }
+]

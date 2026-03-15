@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-jose
+passlib[bcrypt]
+python-multipart
+pydantic
+pypdf
+python-dotenv
+httpx
+chromadb
